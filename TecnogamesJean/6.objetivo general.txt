@@ -1,0 +1,3 @@
+Como objetivo general y personales del desarrollo de la aplicación web se pueden 
+enumerar los siguientes: Mejorar los conocimientos en desarrollo web. Trabajar 
+con un framework de desarrollo web moderno.

@@ -1,0 +1,9 @@
+El principal objetivo del proyecto es diseñar y desarrollar una aplicación web 
+que sirva para albergar diversos retos en forma de “minijuegos” ¸ 
+cuyo objetivo es reforzar los conocimientos ofrecidos en el Portal 
+sobre Dolor Crónico. La aplicación web deberá: Permitir añadir nuevos 
+retos a la plataforma. Permitir que los usuarios sean capaces de completar 
+los retos. Permitir a los usuarios obtener recompensas al completar retos. 
+Permitir a los usuarios comprobar sus logros en cada uno de los retos. 
+Añadir una versión del juego del ahorcado en forma de conjunto de retos para 
+la plataforma. 

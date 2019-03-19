@@ -1,0 +1,5 @@
+El problema que se me ha planteado es la construcción del sitio web del juego. 
+La funcionalidad de la plataforma web, a grandes rasgos, debe ser. 
+Mostrar información general de la plataforma web. Permitir a los usuarios realizar 
+consultas sobre los juegos que serán montados en la web. 
+Además de eso que se permita jugar en línea y descargar los juegos.

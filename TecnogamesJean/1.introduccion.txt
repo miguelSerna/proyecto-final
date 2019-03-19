@@ -1,0 +1,4 @@
+Este documento describe el trabajo realizado en el proyecto del curso 
+desarrollo de web. El proyecto consiste en el desarrollar un sitio 
+web para juegos, desarrollar una aplicación web que sirva para albergar 
+diversos retos en forma de “minijuegos”.
